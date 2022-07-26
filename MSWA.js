@@ -4,15 +4,15 @@
 	"update": [
 		{
 			"languaje": "en",
-			"changelog": "https://github.com/Misael-Mods/MSWA/blob/main/changelog-en.html"
+			"changelog": "https://raw.githubusercontent.com/Misael-Mods/MSWA/main/changelog-en.html"
 		},
 		{
 			"languaje": "es",
-			"changelog": "https://github.com/Misael-Mods/MSWA/blob/main/changelog-es.html"
+			"changelog": "https://raw.githubusercontent.com/Misael-Mods/MSWA/main/changelog-es.html"
 		},
 		{
 			"languaje": "pt",
-			"changelog": "https://github.com/Misael-Mods/MSWA/blob/main/changelog-pt.html"
+			"changelog": "https://raw.githubusercontent.com/Misael-Mods/MSWA/main/changelog-pt.html"
 		}
 	]
 }
